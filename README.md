@@ -18,3 +18,6 @@ Team Rules
 Privacy Reminder
 
 Personal records and identifiable participant data must not be uploaded to this repository.
+Next step
+
+The next step is to prepare the project plan and review the draft survey questions.
