@@ -1,0 +1,6 @@
+Project: Study Habits and Student Well-being
+
+This fictional psychology project explores students' study habits and well-being.
+It considers sleep, time management, and study routines.
+The project is designed for a classroom learning activity.
+No real participant data will be included.
